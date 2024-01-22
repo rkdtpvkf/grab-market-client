@@ -47,6 +47,7 @@ function MainPage() {
                     />
                     <span>{product.seller}</span>
                     <span>테스트</span>
+                    <span>test</span>    
                   </div>
                 </div>
               </div>
