@@ -1,0 +1,73 @@
+[33mcommit 7fef07f7d5a0113b68d46ac6f129cb3d3a632fb8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Kang sae <rkdtpvkf@naver.com>
+Date:   Mon Jan 22 17:45:37 2024 +0900
+
+    first commit
+
+[33mcommit 062e633cda31ded957892fe4c2f33b71fa522bdd[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Kang sae <rkdtpvkf@naver.com>
+Date:   Mon Jan 22 17:38:05 2024 +0900
+
+    project init
+
+[33mcommit 45031ec15194d8304ea7d0d92a43930427d97d50[m
+Author: rkdtpvkf <43945503+rkdtpvkf@users.noreply.github.com>
+Date:   Mon Jan 22 17:36:21 2024 +0900
+
+    Update index.js
+    
+    test1
+
+[33mcommit 5def9038aaa291d259289c1926cb983dc88642f4[m
+Author: rkdtpvkf <43945503+rkdtpvkf@users.noreply.github.com>
+Date:   Mon Jan 22 17:28:59 2024 +0900
+
+    Update index.js
+
+[33mcommit a6e07bcddfba0cdbbb56b28455b0a877e5cca5e6[m
+Author: Kang sae <rkdtpvkf@naver.com>
+Date:   Mon Jan 22 17:25:15 2024 +0900
+
+    project init
+
+[33mcommit 2a4509fe01de4a57374dbca282247eaa467aba47[m
+Author: Kang sae <rkdtpvkf@naver.com>
+Date:   Mon Jan 22 17:19:11 2024 +0900
+
+    project init2
+
+[33mcommit eb3934051dd065d17f91c849a033b1f45bbec6a1[m
+Author: Kang sae <rkdtpvkf@naver.com>
+Date:   Mon Jan 22 17:18:28 2024 +0900
+
+    project init
+
+[33mcommit cb4127509ada43c679cc9031017acc655d745dec[m
+Author: Kang sae <rkdtpvkf@naver.com>
+Date:   Mon Jan 22 17:04:01 2024 +0900
+
+    project init
+
+[33mcommit d9a9af4c85110af8fad4b1164407eedc335d4449[m
+Author: 강세현(SEHYEON KANG)[rkdtpvkf] <rkdtpvkf@LGENSOL.GLOBAL>
+Date:   Mon Jan 22 15:43:18 2024 +0900
+
+    project init
+
+[33mcommit def9e31f488c425b05680a5e989a7b6dd0205a36[m
+Author: 강세현(SEHYEON KANG)[rkdtpvkf] <rkdtpvkf@LGENSOL.GLOBAL>
+Date:   Mon Jan 22 15:26:40 2024 +0900
+
+    first commit
+
+[33mcommit 132118e3bade9c8c0cb4f0a4b71a0f1820b24167[m
+Author: 강세현(SEHYEON KANG)[rkdtpvkf] <rkdtpvkf@LGENSOL.GLOBAL>
+Date:   Mon Jan 22 15:10:30 2024 +0900
+
+    project init
+
+[33mcommit 7a2ce7065bc66ee81e1d0c43dcdfcf0dd3a1d679[m
+Author: 강세현(SEHYEON KANG)[rkdtpvkf] <rkdtpvkf@LGENSOL.GLOBAL>
+Date:   Sat Dec 16 07:31:48 2023 +0900
+
+    Initialize project using Create React App

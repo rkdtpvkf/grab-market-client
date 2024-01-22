@@ -46,6 +46,7 @@ function MainPage() {
                       src="images/icons/avatar.png"
                     />
                     <span>{product.seller}</span>
+                    <span>test</span>
                   </div>
                 </div>
               </div>
