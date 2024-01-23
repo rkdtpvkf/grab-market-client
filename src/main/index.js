@@ -33,9 +33,11 @@ function MainPage() {
         <h1>판매되는 상품들</h1>
         <div id="product-list">
           {products.map(function (product, index) {
+            const keyValue = index + 1;
+            const name = product.name;
             return (
               <div className="product-card" key={index + 1}>
-                <Link className="product-link" to="/product">
+                <Link className="product-link" to={`/products/${keyValue}`}>
                   <div>
                     <img
                       className="product-img"
