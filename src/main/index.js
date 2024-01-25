@@ -29,8 +29,11 @@ function MainPage() {
         {products.map(function (product, index) {
           const keyValue = index + 1;
           const name = product.name;
+          const price = product.price;
+          const seller = product.seller;
+
           return (
-            <div className="product-card" key={index + 1}>
+            <div className="product-card" key={`${keyValue}`}>
               <Link className="product-link" to={`/products/${product.id}`}>
                 <div>
                   <img
@@ -41,16 +44,16 @@ function MainPage() {
                 </div>
                 <div className="product-contents">
                   <span className="product-name">
-                    {index + 1} .{product.name}
+                    {`${keyValue}`} .{`${name}`}
                   </span>
-                  <span className="product-price">{product.price}원</span>
+                  <span className="product-price">{`${price}`}원</span>
                   <div className="product-seller">
                     <img
                       className="product-avatar"
                       src="images/icons/avatar.png"
                       alt="avatar"
                     />
-                    <span>{product.seller}</span>
+                    <span>{`${seller}`}</span>
                   </div>
                 </div>
               </Link>
