@@ -6,15 +6,13 @@ function MainPage() {
   const [products, setProducts] = React.useState([]);
   React.useEffect(function () {
     axios
-      .get(
-        "https://49c25442-f9db-49fe-adfb-d51a9c633d97.mock.pstmn.io/products"
-      )
-      .then(function (result) {
+      .get("http://localhost:8080/products")
+      .then((result) => {
         console.log(result);
         const products = result.data.products;
         setProducts(products);
       })
-      .catch(function (error) {
+      .catch((error) => {
         console.error("에러발생 :", error);
       });
   }, []);
@@ -26,7 +24,7 @@ function MainPage() {
       </div>
       <h1>판매되는 상품들</h1>
       <div id="product-list">
-        {products.map(function (product, index) {
+        {products.map((product, index) => {
           const keyValue = index + 1;
           const name = product.name;
           const price = product.price;
